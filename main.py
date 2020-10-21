@@ -19,8 +19,8 @@ while True:
       f2 = eval(input("f2: ").replace("^", "**"))
 
       print("Vælg interval")
-      i1 = int(input("i1: "))
-      i2 = int(input("i2: "))
+      i1 = float(input("i1: "))
+      i2 = float(input("i2: "))
 
       eq1 = Eq(a*i1**3 + b*i1**2 + c*i1 + d, f1.subs(x, i1))
 
