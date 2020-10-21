@@ -1,4 +1,6 @@
-from sympy import symbols, Eq, solve, diff
+from sympy import *
+
+import math
 
 while True:
       print("""
