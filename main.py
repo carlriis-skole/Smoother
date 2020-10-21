@@ -1,5 +1,5 @@
 from sympy import *
-
+x, y, a, b, c, d = symbols('x y a b c d')
 import math
 
 while True:
@@ -12,9 +12,6 @@ while True:
       |_______/    |__|  |__|  \______/   \______/      |__|     |__|  |__| |_______|| _| `._____|
                                                                                             
       """)
-
-      x, y, a, b, c, d = symbols('x y a b c d')
-
 
       print("Vælg funktioner:")
       f1 = eval(input("f1: ").replace("^", "**"))
