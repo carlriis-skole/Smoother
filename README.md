@@ -1,5 +1,5 @@
 # Smoother
-## By Carl og Isak
+## Af Carl og Isak
 
 Gør din samling differentiabel
 
@@ -8,3 +8,11 @@ Gør din samling differentiabel
 ```
 pip3 install sympy
 ```
+
+# Smoother 2.0/Piecewise
+## Stadigvæk af Carl og Isak
+
+Gør din samling differentiabel hurtigere
+
+# Dependencies
+Samme som før
